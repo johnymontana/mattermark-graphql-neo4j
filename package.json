@@ -1,0 +1,20 @@
+{
+  "name": "mattermark-graphql-neo4j",
+  "version": "0.0.1",
+  "description": "Query the Mattermark GraphQL API and write results to Neo4j",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "William Lyon",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-client": "^1.0.4",
+    "async": "^2.3.0",
+    "es6-promise": "^4.1.0",
+    "graphql-tag": "^2.0.0",
+    "isomorphic-fetch": "^2.2.1",
+    "neo4j-driver": "^1.2.0",
+  }
+}
