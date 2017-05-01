@@ -1,6 +1,6 @@
 # mattermark-graphql-neo4j
 
-Query the Mattermark GraphQL API using Apollo-Client, saving data into Neo4j.
+Query the Mattermark GraphQL API using Apollo-Client, saving data into Neo4j. Read more in [this blog post.](http://www.lyonwj.com/2017/04/27/mattermark-api-graphql-neo4j-startup-funding/)
 
 ## Instructions
 
